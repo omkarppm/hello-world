@@ -1,2 +1,3 @@
-abcd
-abcd
+function test(){
+	console.log(111);
+}
