@@ -1,3 +1,3 @@
 function test(){
-	console.log(222);
+	console.log(22112);
 }
