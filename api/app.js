@@ -9,7 +9,3 @@ function test1223(){
 function demo(){
 	console.log(111);
 }
-
-function demo111(){
-	console.log(111);
-}
